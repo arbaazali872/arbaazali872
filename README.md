@@ -27,7 +27,7 @@ I build production-grade AI systems and data pipelines for industrial and web-sc
 
 ## Quick links
 - Email: `arbaazali872@gmail.com`  
-- LinkedIn: `https://www.linkedin.com/in/engineerarbaaz/`  
+- LinkedIn: https://www.linkedin.com/in/engineerarbaaz/
 - Portfolio: https://arbaazali872.github.io/
 
 ---
